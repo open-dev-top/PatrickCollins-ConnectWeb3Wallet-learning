@@ -1,5 +1,6 @@
 ```shell
 npx create-next-app@12
+yarn add ethers@5
 ```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
