@@ -1,4 +1,4 @@
-# PatrickCollins-ConnectWeb3Wallet-learning
+# PatrickCollins-Web3MetamaskConnectors-learning
 
 ## [How to Connect your Smart Contracts to Metamask | Full Stack Web3](https://youtu.be/pdsYCkUWrgQ?si=p6lWr3iT14ZcZgp8)
 
