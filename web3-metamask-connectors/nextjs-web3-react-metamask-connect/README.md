@@ -1,7 +1,8 @@
 ```shell
 npx create-next-app@12
-yarn add @web3-react/core
+yarn add @web3-react/core@6
 yarn add ethers@5
+yarn add @web3-react/injected-connector@6
 ```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
